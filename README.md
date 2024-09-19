@@ -2,6 +2,8 @@
 
 simple visualizer for minecraft armor trims made in godot 4
 
+https://minecraf7person.github.io/armor-trim-visualizer/
+
 # probably the worst way to make a website
 but atleast there arent any ads (not naming another site, but my friends were forced to use it until now)
 
