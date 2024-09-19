@@ -1,3 +1,5 @@
+# work in progress, not functional right now at all
+
 simple visualizer for minecraft armor trims made in godot 4
 
 # probably the worst way to make a website
